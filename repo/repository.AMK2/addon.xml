@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.AMK2" name="[COLOR lime]Mauro Repository[/COLOR] Repo" version="1.0.1" provider-name="l0s3kntrl">
+<addon id="repository.AMK2" name="Mauro Repository" version="1.0.1" provider-name="l0s3kntrl">
     <extension point="xbmc.addon.repository" name="Mauro Repository">
         <info>https://raw.githubusercontent.com/l0s3kntrl/AMK2/master/repo/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/l0s3kntrl/AMK2/master/repo/addons.xml.md5</checksum>
